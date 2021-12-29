@@ -1,6 +1,6 @@
 Package: pasteintoR
 Title: RStudio Addin that Allows Pasting of Excel into R df
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: 
     person(given = "Rhys",
            family = "Bergeron",
