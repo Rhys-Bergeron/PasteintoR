@@ -1,0 +1,18 @@
+Package: pasteintoR
+Title: RStudio Addin that Allows Pasting of Excel into R df
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Rhys"
+           family = "Bergeron",
+           role = c("aut", "cre"),
+           email = "rhysbergeron@gmail.com")
+Description: RStudio Addin that creates a data frame (df) in environment 
+    based on whatver you have in your clipboard. The first row should contain
+    the desired column(s) name(s). 
+License: use_mit_license()
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    rstudioapi (>= 0.13)
