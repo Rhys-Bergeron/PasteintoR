@@ -1,0 +1,4 @@
+Name: Paste data into R
+Description: Paste Excel Clipboard into dataframe (df) into R Console.
+Binding: paste_into_R
+Interactive: false
